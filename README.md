@@ -16,4 +16,4 @@
 - *You may raise an issue on this page for blocking questions but please try to work the problem and bring questions to the interview.*
 
 ### Submission details
-*Please compress your submission and send it back to the recruiter when complete.*
+- *Please compress your submission and send it back to the recruiter when complete.*
