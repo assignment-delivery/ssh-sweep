@@ -1,5 +1,5 @@
 ## WARNING: 
-*Accessing sytems without permission is illegal.  You should be using your own development infrastructure for testing.  
+*Accessing sytems without permission is illegal.  You should be using your own development infrastructure for testing.*  
 
 ### Assignment
 - You have located a credential on your companies public github project.  
@@ -11,5 +11,5 @@
 - You may use the ssh_sweep.py file as a starting point
 
 
-*This is open book, but you may be asked to discuss your code during the interview.  
+*This is open book, but you may be asked to discuss your code during the interview.*  
 
