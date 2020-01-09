@@ -7,7 +7,8 @@
 - If OS access is obtained gather system details.  
 - Results should be dumped to a json file.  
 - Targets will exceed 200,000 systems. 
-- You may use the ssh_sweep.py file as a starting point
+- You may use the ssh_sweep.py file as a starting point.
 
 *This is open book, but you may be asked to discuss your code during the interview.*  
 
+*Unit testing is not required for this assignment.*
