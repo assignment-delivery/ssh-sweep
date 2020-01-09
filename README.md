@@ -13,7 +13,7 @@
 
 *Unit testing is not required for this assignment.*
 
-*You may raise an issue on this page for blocking questions but please provide try to work the problem and bring questions to the interview
+*You may raise an issue on this page for blocking questions but please provide try to work the problem and bring questions to the interview.*
 
 ### Submission details
 *Please compress your submission and send back to the recruiter.*
