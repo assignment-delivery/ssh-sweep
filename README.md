@@ -1,5 +1,5 @@
 ## WARNING
-- *Accessing sytems without permission is illegal.  
+- *Accessing sytems without permission is illegal.*  
 - *Use your personal development infrastructure for testing.*  
 
 ### Assignment
