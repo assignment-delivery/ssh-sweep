@@ -17,14 +17,3 @@
 
 ### Submission details
 *Please compress your submission and send back to the recruiter.*
-
-
-
-
-
-
-
-
-
-
-If you see this you checked the commit history on this project, now try to find an example of leaked credentials on a github project as part of your threat model.
